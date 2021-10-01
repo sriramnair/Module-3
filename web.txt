@@ -1,0 +1,4 @@
+The internet is a large network of computers that work with one another. Computers can be linked with one another either
+through wires (ethernet cables) or wirelessly. In order for certain computers to properly link with one another a router is used 
+as a device to ensure this happens. All the data a computer recieves from a router is stored in what is called a server. When you click on a link
+a router connects to you to another network and your able to see what is stored in that network. 
